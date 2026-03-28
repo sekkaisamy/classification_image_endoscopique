@@ -1,2 +1,2 @@
-Summary:</br>
+<h1><b></b>Summary:</b></h1></br>
 Development of an AI-based medical image analysis system applied to wireless capsule endoscopy. The solution uses deep learning models (VGG16, VGG19, and Xception) to automatically classify images as normal or pathological, with Xception achieving the best performance. A desktop application was also developed to visualize, process, and analyze medical images (zoom, filters, edge detection), helping practitioners improve diagnosis efficiency.
